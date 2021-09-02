@@ -1,5 +1,5 @@
 <style>
-html {
+  html {
     font-size: 10px;
   }
   
@@ -73,7 +73,6 @@ html {
     margin: 50px 0;
     text-align: center;
   }
-  
   ul {
     max-width: 550px;
     margin: 0 auto 50px auto;
